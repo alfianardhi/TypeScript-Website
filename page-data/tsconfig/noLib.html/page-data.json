@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tsconfig-option-one-page-tsx","path":"/tsconfig/noLib.html","result":{"pageContext":{"title":"noLib","lang":"en","html":"<p>Disables the automatic inclusion of any library files.\nIf this option is set, <code>lib</code> is ignored.</p>","redirectHref":"/tsconfig#noLib"}},"staticQueryHashes":[]}
